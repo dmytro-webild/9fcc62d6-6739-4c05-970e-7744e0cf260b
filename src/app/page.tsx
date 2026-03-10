@@ -48,7 +48,7 @@ export default function RendorasPage() {
           tagIcon={Sparkles}
           tagAnimation="slide-up"
           background={{ variant: "glowing-orb" }}
-          imageSrc="http://img.b2bpic.net/free-photo/woman-holding-cup-coffee-while-being-covered-with-blanket_23-2148821621.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/woman-holding-cup-coffee-while-being-covered-with-blanket_23-2148821621.jpg?_wi=1"
           imageAlt="Rendoras heated blanket wearable hoodie"
           imagePosition="right"
           mediaAnimation="blur-reveal"
@@ -104,13 +104,13 @@ export default function RendorasPage() {
           features={[
             {
               id: "1",              title: "Warm Office Bliss",              author: "Office Workers",              description: "Say goodbye to office AC that freezes you out. Stay productively warm at your desk without affecting your workspace temperature. Perfect for those who run cold.",              tags: ["Productivity", "Comfort"],
-              imageSrc: "http://img.b2bpic.net/free-photo/image-young-female-entrepreneur-office-worker-sits-casual-clothes-works-with-laptop-drinks_1258-195313.jpg",              imageAlt: "Person working comfortably with heated blanket"},
+              imageSrc: "http://img.b2bpic.net/free-photo/image-young-female-entrepreneur-office-worker-sits-casual-clothes-works-with-laptop-drinks_1258-195313.jpg?_wi=1",              imageAlt: "Person working comfortably with heated blanket"},
             {
               id: "2",              title: "Traveler's Dream",              author: "On-The-Go",              description: "Pack light, stay warm. From airplanes to hotels to car rides, your portable heated blanket is always there. Take comfort with you everywhere.",              tags: ["Travel-Friendly", "Portable"],
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-happy-fitness-woman-leaning-rail_171337-6247.jpg",              imageAlt: "Travel comfort with portable heated blanket"},
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-happy-fitness-woman-leaning-rail_171337-6247.jpg?_wi=1",              imageAlt: "Travel comfort with portable heated blanket"},
             {
               id: "3",              title: "Home Comfort Zone",              author: "Relaxation Time",              description: "Curl up for movie nights, reading sessions, or just lazy Sundays. Create your personal comfort zone without cranking up the heat for the whole house.",              tags: ["Relaxation", "Energy-Saving"],
-              imageSrc: "http://img.b2bpic.net/free-photo/still-life-home-atmosphere-interior-with-book-candles-table-cozy-bedspreads_169016-1308.jpg",              imageAlt: "Cozy home relaxation with heated blanket"},
+              imageSrc: "http://img.b2bpic.net/free-photo/still-life-home-atmosphere-interior-with-book-candles-table-cozy-bedspreads_169016-1308.jpg?_wi=1",              imageAlt: "Cozy home relaxation with heated blanket"},
           ]}
           animationType="slide-up"
           textboxLayout="default"
@@ -127,13 +127,13 @@ export default function RendorasPage() {
           tagAnimation="slide-up"
           products={[
             {
-              id: "1",              name: "Rendoras Heated Blanket - Standard (Blue)",              price: "$79.99",              imageSrc: "http://img.b2bpic.net/free-photo/woman-holding-cup-coffee-while-being-covered-with-blanket_23-2148821621.jpg",              imageAlt: "Rendoras heated blanket standard size blue",              initialQuantity: 1,
+              id: "1",              name: "Rendoras Heated Blanket - Standard (Blue)",              price: "$79.99",              imageSrc: "http://img.b2bpic.net/free-photo/woman-holding-cup-coffee-while-being-covered-with-blanket_23-2148821621.jpg?_wi=2",              imageAlt: "Rendoras heated blanket standard size blue",              initialQuantity: 1,
             },
             {
-              id: "2",              name: "Rendoras Heated Blanket - Standard (Gray)",              price: "$79.99",              imageSrc: "http://img.b2bpic.net/free-photo/woman-holding-cup-coffee-while-being-covered-with-blanket_23-2148821621.jpg",              imageAlt: "Rendoras heated blanket standard size gray",              initialQuantity: 1,
+              id: "2",              name: "Rendoras Heated Blanket - Standard (Gray)",              price: "$79.99",              imageSrc: "http://img.b2bpic.net/free-photo/woman-holding-cup-coffee-while-being-covered-with-blanket_23-2148821621.jpg?_wi=3",              imageAlt: "Rendoras heated blanket standard size gray",              initialQuantity: 1,
             },
             {
-              id: "3",              name: "Rendoras Heated Blanket - XL (Navy)",              price: "$99.99",              imageSrc: "http://img.b2bpic.net/free-photo/woman-holding-cup-coffee-while-being-covered-with-blanket_23-2148821621.jpg",              imageAlt: "Rendoras heated blanket XL size navy",              initialQuantity: 1,
+              id: "3",              name: "Rendoras Heated Blanket - XL (Navy)",              price: "$99.99",              imageSrc: "http://img.b2bpic.net/free-photo/woman-holding-cup-coffee-while-being-covered-with-blanket_23-2148821621.jpg?_wi=4",              imageAlt: "Rendoras heated blanket XL size navy",              initialQuantity: 1,
             },
           ]}
           gridVariant="three-columns-all-equal-width"
@@ -152,17 +152,17 @@ export default function RendorasPage() {
           tagAnimation="slide-up"
           testimonials={[
             {
-              id: "1",              name: "Emily Rodriguez, Student",              date: "Date: 15 January 2025",              title: "Game-changer for my dorm room!",              quote: "My dorm room is freezing in winter. This blanket is a lifesaver. I can finally study comfortably without layers of sweaters. Plus, it packs away easily for breaks.",              tag: "Student",              avatarSrc: "http://img.b2bpic.net/free-photo/close-up-smiley-man-posing_23-2148563424.jpg",              avatarAlt: "Emily Rodriguez",              imageSrc: "http://img.b2bpic.net/free-photo/still-life-home-atmosphere-interior-with-book-candles-table-cozy-bedspreads_169016-1308.jpg",              imageAlt: "Cozy home relaxation"},
+              id: "1",              name: "Emily Rodriguez, Student",              date: "Date: 15 January 2025",              title: "Game-changer for my dorm room!",              quote: "My dorm room is freezing in winter. This blanket is a lifesaver. I can finally study comfortably without layers of sweaters. Plus, it packs away easily for breaks.",              tag: "Student",              avatarSrc: "http://img.b2bpic.net/free-photo/close-up-smiley-man-posing_23-2148563424.jpg",              avatarAlt: "Emily Rodriguez",              imageSrc: "http://img.b2bpic.net/free-photo/still-life-home-atmosphere-interior-with-book-candles-table-cozy-bedspreads_169016-1308.jpg?_wi=2",              imageAlt: "Cozy home relaxation"},
             {
-              id: "2",              name: "Jennifer Walsh, Remote Worker",              date: "Date: 10 January 2025",              title: "My productivity boost!",              quote: "Working from home was miserable because I was always cold. Now I wear this blanket like a hoodie during video calls and stay warm. My energy bills dropped too!",              tag: "Office Worker",              avatarSrc: "http://img.b2bpic.net/free-photo/young-woman-sitting-library_273609-15839.jpg",              avatarAlt: "Jennifer Walsh",              imageSrc: "http://img.b2bpic.net/free-photo/image-young-female-entrepreneur-office-worker-sits-casual-clothes-works-with-laptop-drinks_1258-195313.jpg",              imageAlt: "Office worker comfort"},
+              id: "2",              name: "Jennifer Walsh, Remote Worker",              date: "Date: 10 January 2025",              title: "My productivity boost!",              quote: "Working from home was miserable because I was always cold. Now I wear this blanket like a hoodie during video calls and stay warm. My energy bills dropped too!",              tag: "Office Worker",              avatarSrc: "http://img.b2bpic.net/free-photo/young-woman-sitting-library_273609-15839.jpg",              avatarAlt: "Jennifer Walsh",              imageSrc: "http://img.b2bpic.net/free-photo/image-young-female-entrepreneur-office-worker-sits-casual-clothes-works-with-laptop-drinks_1258-195313.jpg?_wi=2",              imageAlt: "Office worker comfort"},
             {
-              id: "3",              name: "Robert Thompson, Senior",              date: "Date: 5 January 2025",              title: "Perfect comfort solution!",              quote: "At 72, I feel the cold more than I used to. This heated blanket is so comfortable and easy to use. I've recommended it to all my friends.",              tag: "Elderly",              avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-with-smartwatch_23-2149046200.jpg",              avatarAlt: "Robert Thompson",              imageSrc: "http://img.b2bpic.net/free-photo/still-life-home-atmosphere-interior-with-book-candles-table-cozy-bedspreads_169016-1308.jpg",              imageAlt: "Home comfort"},
+              id: "3",              name: "Robert Thompson, Senior",              date: "Date: 5 January 2025",              title: "Perfect comfort solution!",              quote: "At 72, I feel the cold more than I used to. This heated blanket is so comfortable and easy to use. I've recommended it to all my friends.",              tag: "Elderly",              avatarSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-with-smartwatch_23-2149046200.jpg",              avatarAlt: "Robert Thompson",              imageSrc: "http://img.b2bpic.net/free-photo/still-life-home-atmosphere-interior-with-book-candles-table-cozy-bedspreads_169016-1308.jpg?_wi=3",              imageAlt: "Home comfort"},
             {
-              id: "4",              name: "David Park, Frequent Traveler",              date: "Date: 28 December 2024",              title: "Never travel without it now!",              quote: "I travel internationally 3 times a month. This blanket is compact, lightweight, and keeps me warm on every flight. Worth every penny.",              tag: "Traveler",              avatarSrc: "http://img.b2bpic.net/free-vector/male-workers-avatars-with-flat-design_23-2147665877.jpg",              avatarAlt: "David Park",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-happy-fitness-woman-leaning-rail_171337-6247.jpg",              imageAlt: "Travel comfort"},
+              id: "4",              name: "David Park, Frequent Traveler",              date: "Date: 28 December 2024",              title: "Never travel without it now!",              quote: "I travel internationally 3 times a month. This blanket is compact, lightweight, and keeps me warm on every flight. Worth every penny.",              tag: "Traveler",              avatarSrc: "http://img.b2bpic.net/free-vector/male-workers-avatars-with-flat-design_23-2147665877.jpg",              avatarAlt: "David Park",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-happy-fitness-woman-leaning-rail_171337-6247.jpg?_wi=2",              imageAlt: "Travel comfort"},
             {
-              id: "5",              name: "Maria Garcia, Cold-Sensitive",              date: "Date: 20 December 2024",              title: "Finally, I can be comfortable!",              quote: "I've always struggled with feeling cold. My partner can wear shorts while I'm shivering. This blanket gave me independence in my own home.",              tag: "Health",              avatarSrc: "http://img.b2bpic.net/free-photo/young-woman-sitting-library_273609-15839.jpg",              avatarAlt: "Maria Garcia",              imageSrc: "http://img.b2bpic.net/free-photo/still-life-home-atmosphere-interior-with-book-candles-table-cozy-bedspreads_169016-1308.jpg",              imageAlt: "Home comfort"},
+              id: "5",              name: "Maria Garcia, Cold-Sensitive",              date: "Date: 20 December 2024",              title: "Finally, I can be comfortable!",              quote: "I've always struggled with feeling cold. My partner can wear shorts while I'm shivering. This blanket gave me independence in my own home.",              tag: "Health",              avatarSrc: "http://img.b2bpic.net/free-photo/young-woman-sitting-library_273609-15839.jpg",              avatarAlt: "Maria Garcia",              imageSrc: "http://img.b2bpic.net/free-photo/still-life-home-atmosphere-interior-with-book-candles-table-cozy-bedspreads_169016-1308.jpg?_wi=4",              imageAlt: "Home comfort"},
             {
-              id: "6",              name: "James Murphy, Office Manager",              date: "Date: 12 December 2024",              title: "Transformed my workplace!",              quote: "We bought several for our office. Employees are happier, more productive, and we've reduced our heating costs. Best workplace investment ever.",              tag: "Corporate",              avatarSrc: "http://img.b2bpic.net/free-vector/male-workers-avatars-with-flat-design_23-2147665877.jpg",              avatarAlt: "James Murphy",              imageSrc: "http://img.b2bpic.net/free-photo/image-young-female-entrepreneur-office-worker-sits-casual-clothes-works-with-laptop-drinks_1258-195313.jpg",              imageAlt: "Office environment"},
+              id: "6",              name: "James Murphy, Office Manager",              date: "Date: 12 December 2024",              title: "Transformed my workplace!",              quote: "We bought several for our office. Employees are happier, more productive, and we've reduced our heating costs. Best workplace investment ever.",              tag: "Corporate",              avatarSrc: "http://img.b2bpic.net/free-vector/male-workers-avatars-with-flat-design_23-2147665877.jpg",              avatarAlt: "James Murphy",              imageSrc: "http://img.b2bpic.net/free-photo/image-young-female-entrepreneur-office-worker-sits-casual-clothes-works-with-laptop-drinks_1258-195313.jpg?_wi=3",              imageAlt: "Office environment"},
           ]}
           textboxLayout="default"
           useInvertedBackground={false}
@@ -214,7 +214,7 @@ export default function RendorasPage() {
             required: true,
           }}
           useInvertedBackground={false}
-          imageSrc="http://img.b2bpic.net/free-photo/still-life-home-atmosphere-interior-with-book-candles-table-cozy-bedspreads_169016-1308.jpg"
+          imageSrc="http://img.b2bpic.net/free-photo/still-life-home-atmosphere-interior-with-book-candles-table-cozy-bedspreads_169016-1308.jpg?_wi=5"
           imageAlt="Cozy moment with Rendoras heated blanket"
           mediaAnimation="blur-reveal"
           mediaPosition="right"
